@@ -129,7 +129,7 @@ cd MinorProject2
 ### Windows
 
 ```bash
-python -m venv venv
+python312 -m venv venv
 venv\Scripts\activate
 ```
 
