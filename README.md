@@ -54,7 +54,7 @@ ANTRIX can detect:
 
 ## Project Screenshot
 
-![ANTRIX Demo](Screenshots/antrix-demo.png)
+<img width="819" height="447" alt="antrix-demo png" src="https://github.com/user-attachments/assets/2dd28801-b9ce-46e5-9671-0aa8245e150a" />
 
 ---
 
