@@ -13,7 +13,7 @@
 
 ANTRIX is a real-time AI-based emotion detection system built using Python, OpenCV, and DeepFace.  
 The system captures live webcam frames, analyzes facial expressions using deep learning, and predicts dominant human emotions in real time.
-
+ANTRIX is optimized for lightweight CPU-based execution and does not require dedicated GPU hardware.
 The project is designed with:
 - real-time responsiveness
 - modular architecture
@@ -157,7 +157,7 @@ Run the application using:
 ```bash
 python main.py
 ```
-
+> Note: The first launch may take longer because DeepFace downloads pre-trained model weights automatically.
 ---
 
 # Controls
