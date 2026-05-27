@@ -129,7 +129,7 @@ cd MinorProject2
 ### Windows
 
 ```bash
-python312 -m venv venv
+python -m venv venv
 venv\Scripts\activate
 ```
 
@@ -165,8 +165,6 @@ python main.py
 | Key | Function |
 |---|---|
 | Q | Exit Application |
-| Window Close Button | Safe Shutdown |
-
 ---
 
 # How ANTRIX Works
