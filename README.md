@@ -103,6 +103,7 @@ MinorProject2/
 
 - Python 3.12
 - pip package manager
+- git
 - Internet connection (first run only for model download)
 
 ---
@@ -114,6 +115,14 @@ MinorProject2/
 ```bash
 git clone https://github.com/amartyasinghnamra/MinorProject2.git
 ```
+> **Note:**
+>#### If u dont have git installed run 
+###### On windows 
+```bash
+winget install Microsoft.git
+```
+###### On linux and macos git is usualy preinstalled
+
 
 ---
 
