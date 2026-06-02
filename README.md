@@ -57,6 +57,7 @@ ANTRIX can detect:
 <img width="819" height="447" alt="antrix-demo png" src="https://github.com/user-attachments/assets/2dd28801-b9ce-46e5-9671-0aa8245e150a" />
 
 ---
+### Try  concept demo https://antrix.netlify.app/#hero
 
 ## Technologies Used
 
